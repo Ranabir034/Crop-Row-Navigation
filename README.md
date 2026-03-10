@@ -5,8 +5,7 @@ A visual servoing algorithm that enables autonomous robot navigation through far
 
 ---
 ## 🎬 
-https://github.com/Ranabir034/Crop-Row-Navigation/raw/refs/heads/main/Final%20Video.mp4
-
+https://github.com/Ranabir034/Crop-Row-Navigation/blob/main/Final%20Video.mp4
 ## 🎯 Problem Statement
 
 A ground robot must navigate between two middle crop rows using a single front-facing camera. The algorithm processes each camera frame and returns two control-relevant measurements:
