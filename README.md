@@ -4,7 +4,8 @@
 A visual servoing algorithm that enables autonomous robot navigation through farm fields using only a front-facing camera. Developed as a hiring project for **Salin247.com** — the robot stays centered between two middle crop rows by computing real-time heading and cross-track errors from raw field images.
 
 ---
-https://github.com/Ranabir034/Crop-Row-Navigation/blob/main/Final%20Video.mp4
+## 🎬 
+https://github.com/Ranabir034/Crop-Row-Navigation/raw/refs/heads/main/Final%20Video.mp4
 
 ## 🎯 Problem Statement
 
