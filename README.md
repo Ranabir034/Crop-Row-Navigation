@@ -4,10 +4,9 @@
 A visual servoing algorithm that enables autonomous robot navigation through farm fields using only a front-facing camera. Developed as a hiring project for **Salin247.com** — the robot stays centered between two middle crop rows by computing real-time heading and cross-track errors from raw field images.
 
 ---
-## 🎬 
-![Demo](ref_result.png)(https://www.youtube.com/watch?v=rKJCsscT83E)
-## 🎯 Problem Statement
+## 🎬 Demo
 
+[![Demo Video](ref_result.png)](https://www.youtube.com/watch?v=rKJCsscT83E)
 A ground robot must navigate between two middle crop rows using a single front-facing camera. The algorithm processes each camera frame and returns two control-relevant measurements:
 
 - **Heading Error** — angular difference between the robot's direction and the crop row centerline (degrees)
