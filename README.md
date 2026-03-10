@@ -6,7 +6,7 @@ A visual servoing algorithm that enables autonomous robot navigation through far
 ---
 ## 🎬 Demo
 
-[![Demo Video](ref_result.png)](https://github.com/user-attachments/assets/1a2681ab-319f-4b1e-a475-c8cdfe8cb2f7)
+(https://github.com/user-attachments/assets/1a2681ab-319f-4b1e-a475-c8cdfe8cb2f7)
 A ground robot must navigate between two middle crop rows using a single front-facing camera. The algorithm processes each camera frame and returns two control-relevant measurements:
 
 - **Heading Error** — angular difference between the robot's direction and the crop row centerline (degrees)
